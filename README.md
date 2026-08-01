@@ -291,4 +291,12 @@ Integrated with **Chart.js** for real-time analytics:
 
 ## 📄 License & Usage
 
+Open http://localhost:3000 in your browser.
+Use the Hackathon Quick-Presets on the login card:
+Legitimate Preset: Route directly to Real Cloud Dashboard.
+Attacker Preset: Triggers high risk score (≥ 50) → Route to Verification Sandbox (OTP).
+Enter wrong OTP (e.g. 999999) to silently enter the Adaptive Digital Twin Honeypot.
+Perform exfiltration actions ("Download Database", "View API Keys").
+Navigate to SOC Admin (/admin) to observe recorded attacker telemetry logs and threat charts in real-time.
+
 TwinTrap is released for educational, hackathon, and demonstration purposes. Built with passion for modern cybersecurity, zero-trust architecture, and deception technology.
